@@ -15,11 +15,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/TooTallNate/Java-WebSocket.git" />
+          <option name="url" value="https://github.com/pjseoane/Java-WebSocket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pjseoane/RofexJava.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\pseoane\Documents\Python Projects" />
+    <option name="cloneParentDir" value="C:\Users\pauli\Documents\IntelliJ Projects" />
   </component>
 </application>
