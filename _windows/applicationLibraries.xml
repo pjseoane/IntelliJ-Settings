@@ -1,7 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.7 interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="R Skeletons">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
