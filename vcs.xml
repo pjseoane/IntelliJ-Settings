@@ -32,6 +32,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/C:\Users\pauli\Documents\IntelliJ Projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
